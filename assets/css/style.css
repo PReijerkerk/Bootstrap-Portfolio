@@ -58,6 +58,8 @@ button.navbar-toggler {
 .list-group-item {
     margin-left: 2%;
     margin-right: 2%;
+    Width: 60%;
+    float: left;
 }
 
 .page-header {
@@ -69,7 +71,8 @@ button.navbar-toggler {
     color: #4aaaa5;
 }
 
-.navbar-default {
+.navbar-default, 
+.nav-item {
     background-color: #4aaaa5;
 }
 
@@ -87,17 +90,21 @@ button.navbar-toggler {
     background-color: #777;
 }
 
-.panel-title {
-    color: #4aaaa5;
-}
-
 .img-thumbnail {
     margin-bottom: 15px;
 }
 
-footer {
-    background-color: #777;
+footer,
+.container-footer {
+    background-color: #777 !important;
 }
 
+.btn {
+    margin-bottom: 20px;
+}
+
+body {
+    background-image: url("../images/what-the-hex.png");
+}
 
 
