@@ -2,10 +2,16 @@ h1,
 h2,
 h3 {
     background-color: #4aaaa5;
+    color: #ffffff;
 }
 
-button.navbar-toggle {
+button.navbar-toggler {
     background-color: white;
+}
+
+.nav-link {
+    background-color: #4aaaa5;
+    color: #ffffff;
 }
 
 .icon {
@@ -59,7 +65,7 @@ button.navbar-toggle {
     margin: 20px 0 25px;
 }
 
-.page-header h1 {
+.page-header {
     color: #4aaaa5;
 }
 
@@ -92,5 +98,6 @@ button.navbar-toggle {
 footer {
     background-color: #777;
 }
+
 
 
