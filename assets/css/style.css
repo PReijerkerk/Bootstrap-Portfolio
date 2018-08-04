@@ -80,14 +80,8 @@ button.navbar-toggler {
     color: #ffffff;
 }
 
-.navbar-default .navbar-nav li {
-    color: #777;
-    background-color: #ddd;
-}
-
-.navbar-default .navbar-nav .active a {
+.navbar-default .navbar-nav a {
     color: #ffffff; 
-    background-color: #777;
 }
 
 .img-thumbnail {
