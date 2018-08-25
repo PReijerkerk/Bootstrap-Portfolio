@@ -101,4 +101,8 @@ body {
     background-image: url("../images/what-the-hex.png");
 }
 
+.list-inline {
+    display: inline-block !important;
+}
+
 
